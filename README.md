@@ -11,10 +11,10 @@ I've been manual QA for 5 years and I've dealt with a lot of challenges:<br></p>
 
   
 #### My main technology stack is:
-Java, Selenide, Gradle, REST Assured, Allure, Jenkins
+Java, Selenide, Gradle, JUnit, REST Assured, Allure, Jenkins
 
 #### but I also familiar with:
-Maven, Selenium, Docker, Postman, soapUI, PostgreSQL, Oracle DB, MySQL 
+Maven, Selenium, TestNG, Docker, Postman, soapUI, PostgreSQL, Oracle DB, MySQL 
 
 #### You can contact me:
 * telegram: https://t.me/kryastin
