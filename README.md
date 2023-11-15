@@ -13,7 +13,7 @@ I've been manual QA for 5 years and I've dealt with a lot of challenges:<br></p>
 Java, Selenide, Gradle, REST Assured, Allure, Jenkins
 
 #### but I also familiar with:
-Maven, Selenium, Docker, Postman, soapUI, Postgres, Oracle DB, MySQL 
+Maven, Selenium, Docker, Postman, soapUI, PostgreSQL, Oracle DB, MySQL 
 
 #### You can contact me:
 * telegram: https://t.me/kryastin
