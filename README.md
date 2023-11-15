@@ -6,7 +6,8 @@ I've been manual QA for 5 years and I've dealt with a lot of challenges:<br></p>
 
 - managed small team of testers
 - allocated tasks to members of the QA team
-- planned the testing process, and agreed on timelines and deadlines.
+- planned the testing process, and agreed on timelines and deadlines
+- and, of course, manual testing of high load web applications and web-services
 
   
 #### My main technology stack is:
